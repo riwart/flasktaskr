@@ -1,14 +1,17 @@
 body {
-    padding: 60px 0;
-    background: #ffffff;
+  padding: 60px 0;
+  background: #ffffff;
 }
+
 .footer {
-    padding-top: 30px;
+ padding-top: 30px;
 }
+
 .error {
-    color: red;
-    font-size: .8em;
+  color: red;
+  font-size: .8em;
 }
+
 .input-group {
-    margin: 15px 0;
+  margin: 15px 0;
 }
