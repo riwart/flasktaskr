@@ -15,4 +15,4 @@ from project.api.views import api_blueprint
 # register our blueprints
 app.register_blueprint(users_blueprint)
 app.register_blueprint(tasks_blueprint)
-app.register_blueprint(api_blueprint)
+app.register_blueprint(api_blueprint))
