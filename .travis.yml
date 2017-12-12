@@ -1,16 +1,16 @@
 # specify language
 language:
-	- python
+ - python
 
 # specify python version(s)
 python:
-	- "3.6"
-	- "2.7"
+ - "3.6"
+ - "2.7"
 
 # install dependencies
 install:
-	- pip install -r requirements.txt
+ - pip install -r requirements.txt
 
 # run tests
 script:
-	- nosetests
+ - nosetests
