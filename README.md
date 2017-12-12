@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/riwart/flasktaskr.svg?branch=master)](https://travis-ci.org/riwart/flasktaskr)
